@@ -105,3 +105,5 @@ assert_equal(response, false)
 
 
 
+
+<a href='https://learn.co/lessons/repl-new-syntax-testing' data-visibility='hidden'>Learn.co resource</a>
